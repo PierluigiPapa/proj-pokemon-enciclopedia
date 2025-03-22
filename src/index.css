@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+
+@theme {
+  --color-gameboy: #C3CFA1;
+
+}
+
+.text-accedi {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: 'Press Start 2P', cursive;
+}
